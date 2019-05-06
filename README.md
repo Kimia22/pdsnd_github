@@ -26,5 +26,7 @@ new_york_city.csv
 
 
 ### Credits
+Author: Kimia
+Course: Udacity Project 2
 https://github.com/Kimia22/pdsnd_github
 
