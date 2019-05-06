@@ -1,3 +1,9 @@
+################################
+#Author: Kimia
+#Project: Udacity Project 2
+#Date: 3/9/2019
+###############################
+
 import time
 import pandas as pd
 import numpy as np
