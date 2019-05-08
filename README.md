@@ -20,9 +20,10 @@ Washington, Chicago and New York City
 
 ### Files used
 bikeshare.py -- main program  
-washington.csv -- Washington bike share data
-chicago.csv -- Chicago bike share data
-new_york_city.csv -- New York City bike share data
+washington.csv -- Washington bike share data  
+chicago.csv -- Chicago bike share data  
+new_york_city.csv -- New York City bike share data  
+
 
 
 ### Credits
