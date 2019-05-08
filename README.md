@@ -26,7 +26,10 @@ new_york_city.csv -- New York City bike share data
 
 
 ### Credits
-Author: Kimia
-Course: Udacity Project 2
-Repo: https://github.com/Kimia22/pdsnd_github
+Author: Kimia  
+Course: Udacity Project 2  
+Repo: https://github.com/Kimia22/pdsnd_github  
+
+  
+
 
