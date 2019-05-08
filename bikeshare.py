@@ -69,13 +69,13 @@ def load_data(city, month, day):
     
     #Ask user to see if they like to see the raw data
     check_if_user_wants_to_see_raw_data = input('Do you like to see the raw data? (yes, no) ').lower()
-    isYes = True if check_if_user_wants_to_see_raw_data == 'yes' else False
+    didUserSaidYes = True if check_if_user_wants_to_see_raw_data == 'yes' else False
     index = 5
-    while isYes:
+    while didUserSaidYes:
         print(df[:].iloc[index:index+5])
         index += 5
         check_if_user_wants_to_see_raw_data = input('Do you like to see more data? (yes, no) ').lower()
-        isYes = True if check_if_user_wants_to_see_raw_data == 'yes' else False
+        didUserSaidYes = True if check_if_user_wants_to_see_raw_data == 'yes' else False
     
     #return dataframe
     return df
